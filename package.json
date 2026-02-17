@@ -1,6 +1,10 @@
 {
   "name": "online-tic-tac-toe",
   "version": "1.0.0",
+  "activationEvents": [],
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "description": "Two-player online tic-tac-toe with Node.js and Socket.IO",
   "main": "server.js",
   "scripts": {
