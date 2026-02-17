@@ -1,6 +1,10 @@
 const socket = io();
 
 const lobbySection = document.getElementById("lobby");
+//This is the game section
+//This is the lobby section
+//this
+//this
 const gameSection = document.getElementById("game");
 const playerNameInput = document.getElementById("playerName");
 const roomCodeInput = document.getElementById("roomCodeInput");
